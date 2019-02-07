@@ -34,7 +34,7 @@ You can download Java for multiple platforms from [Oracle](https://aka.ms/azure-
 You can verify the current version of Java on your development machine using the following command:
 
 ```cmd/sh
-java --version
+java -version
 ```
 
 To build the samples, you need to install Maven 3. You can download Maven for multiple platforms from [Apache Maven](https://maven.apache.org/download.cgi).
